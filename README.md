@@ -2,7 +2,7 @@
 
 Local proof of concept for evaluating topic readiness using:
 
-- Tagomatic topic metadata
+- Tag topic metadata
 - TSI coverage and momentum scores
 - Hot Topic Radar matches
 - Entity Management access controls
