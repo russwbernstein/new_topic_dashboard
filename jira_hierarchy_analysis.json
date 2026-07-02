@@ -1,0 +1,166 @@
+{
+  "PLAN-2959": {
+    "summary": "Lifecycle Merchandising",
+    "issuetype": "Initiative",
+    "status": "On Hold",
+    "parent": null,
+    "issuelinks": [],
+    "custom_fields": {
+      "customfield_10470": "9223372036854775807",
+      "customfield_25171": 121.0,
+      "customfield_12889": "This initiative equips editorial and programming teams with smarter merchandising tools that personalize content delivery, automate quality control, and enable data-driven experimentation, resulting in higher engagement, better trial-to-subscriber conversion rates, reduced churn, and increased content confidence across platforms.\r\n\r\n",
+      "customfield_25172": 2800.0,
+      "customfield_16041": "2025-09-19T11:41:26.962-0700",
+      "customfield_15071": "7.0",
+      "customfield_25070": [],
+      "customfield_31471": {
+        "self": "https://jira.savagebeast.com/rest/api/2/customFieldOption/55571",
+        "value": "No",
+        "id": "55571",
+        "disabled": false
+      },
+      "customfield_26289": "https://wiki.savagebeast.com/pages/viewpage.action?pageId=722640757",
+      "customfield_31071": {
+        "self": "https://jira.savagebeast.com/rest/api/2/user?username=bzylber",
+        "name": "bzylber",
+        "key": "bzylber",
+        "emailAddress": "Bennett.Zylber@siriusxm.com",
+        "avatarUrls": {
+          "48x48": "https://jira.savagebeast.com/secure/useravatar?avatarId=10102",
+          "24x24": "https://jira.savagebeast.com/secure/useravatar?size=small&avatarId=10102",
+          "16x16": "https://jira.savagebeast.com/secure/useravatar?size=xsmall&avatarId=10102",
+          "32x32": "https://jira.savagebeast.com/secure/useravatar?size=medium&avatarId=10102"
+        },
+        "displayName": "Bennett Zylber",
+        "active": true,
+        "timeZone": "America/New_York"
+      },
+      "customfield_17870": "{summaryBean=com.atlassian.jira.plugin.devstatus.rest.SummaryBean@728b52e3[summary={pullrequest=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@5b2498f7[byInstanceType={},overall=PullRequestOverallBean{stateCount=0, state='OPEN', details=PullRequestOverallDetails{openCount=0, mergedCount=0, declinedCount=0}}], build=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@2942980f[byInstanceType={},overall=com.atlassian.jira.plugin.devstatus.summary.beans.BuildOverallBean@56de4ef0[failedBuildCount=0,successfulBuildCount=0,unknownBuildCount=0,count=0,lastUpdated=<null>,lastUpdatedTimestamp=<null>]], review=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@54a3934[byInstanceType={},overall=com.atlassian.jira.plugin.devstatus.summary.beans.ReviewsOverallBean@32ff258b[dueDate=<null>,overDue=false,state=<null>,stateCount=0,count=0,lastUpdated=<null>,lastUpdatedTimestamp=<null>]], deployment-environment=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@fc0413b[byInstanceType={},overall=com.atlassian.jira.plugin.devstatus.summary.beans.DeploymentOverallBean@2b4d37fd[showProjects=false,successfulCount=0,topEnvironments=[],count=0,lastUpdated=<null>,lastUpdatedTimestamp=<null>]], repository=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@7f9a3839[byInstanceType={},overall=com.atlassian.jira.plugin.devstatus.summary.beans.CommitOverallBean@3482893c[count=0,lastUpdated=<null>,lastUpdatedTimestamp=<null>]], branch=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@39c6df0e[byInstanceType={},overall=com.atlassian.jira.plugin.devstatus.summary.beans.BranchOverallBean@7bf6e514[count=0,lastUpdated=<null>,lastUpdatedTimestamp=<null>]]},configErrors=[],errors=[]], devSummaryJson={\"cachedValue\":{\"errors\":[],\"configErrors\":[],\"summary\":{\"pullrequest\":{\"overall\":{\"count\":0,\"lastUpdated\":null,\"stateCount\":0,\"state\":\"OPEN\",\"details\":{\"openCount\":0,\"mergedCount\":0,\"declinedCount\":0,\"total\":0},\"open\":true},\"byInstanceType\":{}},\"build\":{\"overall\":{\"count\":0,\"lastUpdated\":null,\"failedBuildCount\":0,\"successfulBuildCount\":0,\"unknownBuildCount\":0},\"byInstanceType\":{}},\"review\":{\"overall\":{\"count\":0,\"lastUpdated\":null,\"stateCount\":0,\"state\":null,\"dueDate\":null,\"overDue\":false,\"completed\":false},\"byInstanceType\":{}},\"deployment-environment\":{\"overall\":{\"count\":0,\"lastUpdated\":null,\"topEnvironments\":[],\"showProjects\":false,\"successfulCount\":0},\"byInstanceType\":{}},\"repository\":{\"overall\":{\"count\":0,\"lastUpdated\":null},\"byInstanceType\":{}},\"branch\":{\"overall\":{\"count\":0,\"lastUpdated\":null},\"byInstanceType\":{}}}},\"isStale\":true}}",
+      "customfield_15575": "2025-09-29",
+      "customfield_15179": "Content Tooling",
+      "customfield_26179": "59528",
+      "customfield_19371": "Final ideation workshop conducted on jan 22nd, once outputs have been documented and prioritised, this can be moved to the next stage. \r\nAmi Pak has assigned a TPM resource, which should address previous issues with delivery/resourcing",
+      "customfield_11590": {
+        "self": "https://jira.savagebeast.com/rest/api/2/user?username=jsanchez1",
+        "name": "jsanchez1",
+        "key": "JIRAUSER63863",
+        "emailAddress": "Juan.Sanchez@siriusxm.com",
+        "avatarUrls": {
+          "48x48": "https://jira.savagebeast.com/secure/useravatar?avatarId=10102",
+          "24x24": "https://jira.savagebeast.com/secure/useravatar?size=small&avatarId=10102",
+          "16x16": "https://jira.savagebeast.com/secure/useravatar?size=xsmall&avatarId=10102",
+          "32x32": "https://jira.savagebeast.com/secure/useravatar?size=medium&avatarId=10102"
+        },
+        "displayName": "Juan Sanchez",
+        "active": true,
+        "timeZone": "America/New_York"
+      },
+      "customfield_16004": "Current merchandising tools lack the flexibility, automation, and personalization needed to meet listener expectations across devices and lifecycle stages. Manual QA processes are time-consuming, content errors reach production, and experimentation is limited to basic A/B tests.\r\n\r\n",
+      "customfield_14101": "This initiative equips editorial and programming teams with smarter merchandising tools that personalize content delivery, automate quality control, and enable data-driven experimentation, resulting in higher engagement, better trial-to-subscriber conversion rates, reduced churn, and increased content confidence across platforms.\r\n\r\n",
+      "customfield_14986": {
+        "self": "https://jira.savagebeast.com/rest/api/2/customFieldOption/58252",
+        "value": "Consumer Product",
+        "id": "58252",
+        "disabled": false
+      },
+      "customfield_12289": {
+        "self": "https://jira.savagebeast.com/rest/api/2/customFieldOption/33931",
+        "value": "Under Review",
+        "id": "33931",
+        "disabled": false
+      },
+      "customfield_11873": {
+        "self": "https://jira.savagebeast.com/rest/api/2/user?username=dmazurkiewicz",
+        "name": "dmazurkiewicz",
+        "key": "JIRAUSER69125",
+        "emailAddress": "Damian.Mazurkiewicz@Siriusxm.com",
+        "avatarUrls": {
+          "48x48": "https://jira.savagebeast.com/secure/useravatar?avatarId=10102",
+          "24x24": "https://jira.savagebeast.com/secure/useravatar?size=small&avatarId=10102",
+          "16x16": "https://jira.savagebeast.com/secure/useravatar?size=xsmall&avatarId=10102",
+          "32x32": "https://jira.savagebeast.com/secure/useravatar?size=medium&avatarId=10102"
+        },
+        "displayName": "Damian Mazurkiewicz",
+        "active": true,
+        "timeZone": "Europe/Warsaw"
+      },
+      "customfield_24172": "2025-07-01",
+      "customfield_24173": "2026-04-30",
+      "customfield_26238": {
+        "self": "https://jira.savagebeast.com/rest/api/2/customFieldOption/55076",
+        "value": "Do",
+        "id": "55076",
+        "disabled": false
+      },
+      "customfield_14280": {
+        "self": "https://jira.savagebeast.com/rest/api/2/customFieldOption/55078",
+        "value": "Discretionary - New Product",
+        "id": "55078",
+        "disabled": false
+      },
+      "customfield_21770": "",
+      "customfield_13870": "1|iavrby:",
+      "customfield_11970": "0.0",
+      "customfield_26252": "2026-05-31",
+      "customfield_24474": [
+        "Checklist(id=221475, issueId=3828332, _items=[])"
+      ],
+      "customfield_32370": 2238874.0,
+      "customfield_24476": "0/0 - Done"
+    }
+  },
+  "NXT-5156": {
+    "summary": "Merchandising Strategy: Lifecycle Merchandising",
+    "issuetype": "Program",
+    "status": "Discovery",
+    "parent": null,
+    "issuelinks": [],
+    "custom_fields": {
+      "customfield_10470": "9223372036854775807",
+      "customfield_15071": "0.0",
+      "customfield_12995": "2024-09-30",
+      "customfield_25070": [],
+      "customfield_17870": "{summaryBean=com.atlassian.jira.plugin.devstatus.rest.SummaryBean@5aa621c1[summary={pullrequest=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@7711ec82[byInstanceType={},overall=PullRequestOverallBean{stateCount=0, state='OPEN', details=PullRequestOverallDetails{openCount=0, mergedCount=0, declinedCount=0}}], build=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@7024661e[byInstanceType={},overall=com.atlassian.jira.plugin.devstatus.summary.beans.BuildOverallBean@8a9f164[failedBuildCount=0,successfulBuildCount=0,unknownBuildCount=0,count=0,lastUpdated=<null>,lastUpdatedTimestamp=<null>]], review=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@1d761fa7[byInstanceType={},overall=com.atlassian.jira.plugin.devstatus.summary.beans.ReviewsOverallBean@3991fb27[dueDate=<null>,overDue=false,state=<null>,stateCount=0,count=0,lastUpdated=<null>,lastUpdatedTimestamp=<null>]], deployment-environment=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@6a566e9d[byInstanceType={},overall=com.atlassian.jira.plugin.devstatus.summary.beans.DeploymentOverallBean@2d339062[showProjects=false,successfulCount=0,topEnvironments=[],count=0,lastUpdated=<null>,lastUpdatedTimestamp=<null>]], repository=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@153944[byInstanceType={},overall=com.atlassian.jira.plugin.devstatus.summary.beans.CommitOverallBean@366ba2a2[count=0,lastUpdated=<null>,lastUpdatedTimestamp=<null>]], branch=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@6f901074[byInstanceType={},overall=com.atlassian.jira.plugin.devstatus.summary.beans.BranchOverallBean@5e912d64[count=0,lastUpdated=<null>,lastUpdatedTimestamp=<null>]]},configErrors=[],errors=[]], devSummaryJson={\"cachedValue\":{\"errors\":[],\"configErrors\":[],\"summary\":{\"pullrequest\":{\"overall\":{\"count\":0,\"lastUpdated\":null,\"stateCount\":0,\"state\":\"OPEN\",\"details\":{\"openCount\":0,\"mergedCount\":0,\"declinedCount\":0,\"total\":0},\"open\":true},\"byInstanceType\":{}},\"build\":{\"overall\":{\"count\":0,\"lastUpdated\":null,\"failedBuildCount\":0,\"successfulBuildCount\":0,\"unknownBuildCount\":0},\"byInstanceType\":{}},\"review\":{\"overall\":{\"count\":0,\"lastUpdated\":null,\"stateCount\":0,\"state\":null,\"dueDate\":null,\"overDue\":false,\"completed\":false},\"byInstanceType\":{}},\"deployment-environment\":{\"overall\":{\"count\":0,\"lastUpdated\":null,\"topEnvironments\":[],\"showProjects\":false,\"successfulCount\":0},\"byInstanceType\":{}},\"repository\":{\"overall\":{\"count\":0,\"lastUpdated\":null},\"byInstanceType\":{}},\"branch\":{\"overall\":{\"count\":0,\"lastUpdated\":null},\"byInstanceType\":{}}}},\"isStale\":true}}",
+      "customfield_26347": {
+        "self": "https://jira.savagebeast.com/rest/api/2/customFieldOption/49072",
+        "value": "Product Driven",
+        "id": "49072",
+        "disabled": false
+      },
+      "customfield_24171": "PLAN-2959",
+      "customfield_29070": "PLAN-2959",
+      "customfield_21770": "",
+      "customfield_13870": "1|ht9ytc:000716",
+      "customfield_11970": "0.0"
+    }
+  },
+  "NXT-13147": {
+    "summary": "Contentful Main Search Page Improvements",
+    "issuetype": "Epic",
+    "status": "Not Started",
+    "parent": null,
+    "issuelinks": [],
+    "custom_fields": {
+      "customfield_10470": "9223372036854775807",
+      "customfield_15071": "0.0",
+      "customfield_27491": [],
+      "customfield_25070": [],
+      "customfield_17870": "{summaryBean=com.atlassian.jira.plugin.devstatus.rest.SummaryBean@767c9d17[summary={pullrequest=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@8ddd252[byInstanceType={},overall=PullRequestOverallBean{stateCount=0, state='OPEN', details=PullRequestOverallDetails{openCount=0, mergedCount=0, declinedCount=0}}], build=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@4f6e8f54[byInstanceType={},overall=com.atlassian.jira.plugin.devstatus.summary.beans.BuildOverallBean@29c78ba9[failedBuildCount=0,successfulBuildCount=0,unknownBuildCount=0,count=0,lastUpdated=<null>,lastUpdatedTimestamp=<null>]], review=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@4f4500d7[byInstanceType={},overall=com.atlassian.jira.plugin.devstatus.summary.beans.ReviewsOverallBean@531fb209[dueDate=<null>,overDue=false,state=<null>,stateCount=0,count=0,lastUpdated=<null>,lastUpdatedTimestamp=<null>]], deployment-environment=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@68309311[byInstanceType={},overall=com.atlassian.jira.plugin.devstatus.summary.beans.DeploymentOverallBean@7d3fd77d[showProjects=false,successfulCount=0,topEnvironments=[],count=0,lastUpdated=<null>,lastUpdatedTimestamp=<null>]], repository=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@1a9b23b5[byInstanceType={},overall=com.atlassian.jira.plugin.devstatus.summary.beans.CommitOverallBean@343a4515[count=0,lastUpdated=<null>,lastUpdatedTimestamp=<null>]], branch=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@58fee098[byInstanceType={},overall=com.atlassian.jira.plugin.devstatus.summary.beans.BranchOverallBean@5bf940c5[count=0,lastUpdated=<null>,lastUpdatedTimestamp=<null>]]},configErrors=[],errors=[]], devSummaryJson={\"cachedValue\":{\"errors\":[],\"configErrors\":[],\"summary\":{\"pullrequest\":{\"overall\":{\"count\":0,\"lastUpdated\":null,\"stateCount\":0,\"state\":\"OPEN\",\"details\":{\"openCount\":0,\"mergedCount\":0,\"declinedCount\":0,\"total\":0},\"open\":true},\"byInstanceType\":{}},\"build\":{\"overall\":{\"count\":0,\"lastUpdated\":null,\"failedBuildCount\":0,\"successfulBuildCount\":0,\"unknownBuildCount\":0},\"byInstanceType\":{}},\"review\":{\"overall\":{\"count\":0,\"lastUpdated\":null,\"stateCount\":0,\"state\":null,\"dueDate\":null,\"overDue\":false,\"completed\":false},\"byInstanceType\":{}},\"deployment-environment\":{\"overall\":{\"count\":0,\"lastUpdated\":null,\"topEnvironments\":[],\"showProjects\":false,\"successfulCount\":0},\"byInstanceType\":{}},\"repository\":{\"overall\":{\"count\":0,\"lastUpdated\":null},\"byInstanceType\":{}},\"branch\":{\"overall\":{\"count\":0,\"lastUpdated\":null},\"byInstanceType\":{}}}},\"isStale\":true}}",
+      "customfield_29070": "null",
+      "customfield_21770": "",
+      "customfield_13870": "1|idzf6o:",
+      "customfield_11573": {
+        "self": "https://jira.savagebeast.com/rest/api/2/customFieldOption/11670",
+        "value": "To Do",
+        "id": "11670",
+        "disabled": false
+      },
+      "customfield_11572": "Contentful Search Improvements",
+      "customfield_11574": "ghx-label-11",
+      "customfield_11970": "0.0",
+      "customfield_24474": [
+        "Checklist(id=390736, issueId=4522574, _items=[])"
+      ]
+    }
+  }
+}
